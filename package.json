@@ -1,9 +1,8 @@
 {
   "name": "apple-website",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/nlqm/appleCloneWebsite",
+  "homepage": "https://nlqm.github.io/appleCloneWebsite/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
